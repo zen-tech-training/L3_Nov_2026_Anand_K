@@ -1,0 +1,6 @@
+langchain
+langchain-community
+fastmcp
+mcp[cli]
+langchain[mcp]>=1.4.0
+
