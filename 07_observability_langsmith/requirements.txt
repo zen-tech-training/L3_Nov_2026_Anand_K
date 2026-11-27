@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+boto3
+pypdf
+langchain-text-splitters
+faiss-cpu
+langchain_neo4j
+langchain_experimental
+fastmcp
+langsmith
